@@ -10,65 +10,41 @@ The objective of this project is to perform sales analysis using Excel functions
 
 ## Tools Used
 
-- Microsoft Excel
+* Microsoft Excel
 
 ---
 
 ## Excel Features Used
 
-- Sorting
-- Filtering
-- SUM
-- AVERAGE
-- COUNT
-- COUNTIF
-- SUMIF
+* Sorting
+* Filtering
+* SUM
+* AVERAGE
+* COUNT
+* COUNTIF
+* SUMIF
 
 ---
 
 ## Analysis Performed
 
-- Product-wise Sales Analysis
-- Key Metrics Calculation
-- Sales Summary
-- Data Visualization using Column Chart
+* Product-wise Sales Analysis
+* Key Metrics Calculation
+* Sales Summary
+* Data Visualization using Column Chart
 
 ---
 
 ## Files Included
 
-- Sales_Data.xlsx
-- Screenshot1.png
-- Screenshot2.png
-- Screenshot3.png
-- Screenshot4.png
-- Screenshot5.png
-- Screenshot6.png
+* Sales_Data.xlsx
 
 ---
 
-## Project Screenshots
+## Conclusion
 
-### Screenshot 1
+This project demonstrates my Microsoft Excel skills in sales data analysis using essential Excel functions and data visualization techniques. Through this project, I performed product-wise sales analysis, calculated key metrics, and generated meaningful business insights using charts and Excel functions.
 
-![Screenshot1](Screenshot1.png)
 
-### Screenshot 2
+Project screenshots are available in this repository as separate image files. The complete analysis has been performed using Microsoft Excel.
 
-![Screenshot2](Screenshot2.png)
-
-### Screenshot 3
-
-![Screenshot3](Screenshot3.png)
-
-### Screenshot 4
-
-![Screenshot4](Screenshot4.png)
-
-### Screenshot 5
-
-![Screenshot5](Screenshot5.png)
-
-### Screenshot 6
-
-![Screenshot6](Screenshot6.png)
