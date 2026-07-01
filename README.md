@@ -44,7 +44,3 @@ The objective of this project is to perform sales analysis using Excel functions
 ## Conclusion
 
 This project demonstrates my Microsoft Excel skills in sales data analysis using essential Excel functions and data visualization techniques. Through this project, I performed product-wise sales analysis, calculated key metrics, and generated meaningful business insights using charts and Excel functions.
-
-
-Project screenshots are available in this repository as separate image files. The complete analysis has been performed using Microsoft Excel.
-
