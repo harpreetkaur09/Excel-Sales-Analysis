@@ -51,24 +51,24 @@ The objective of this project is to perform sales analysis using Excel functions
 
 ### Screenshot 1
 
-![Screenshot 1](Screenshot1.png)
+![Screenshot1](Screenshot1.png)
 
 ### Screenshot 2
 
-![Screenshot 2](Screenshot2.png)
+![Screenshot2](Screenshot2.png)
 
 ### Screenshot 3
 
-![Screenshot 3](Screenshot3.png)
+![Screenshot3](Screenshot3.png)
 
 ### Screenshot 4
 
-![Screenshot 4](Screenshot4.png)
+![Screenshot4](Screenshot4.png)
 
 ### Screenshot 5
 
-![Screenshot 5](Screenshot5.png)
+![Screenshot5](Screenshot5.png)
 
 ### Screenshot 6
 
-![Screenshot 6](Screenshot6.png)
+![Screenshot6](Screenshot6.png)
